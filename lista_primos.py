@@ -1,6 +1,5 @@
 lista_primos = []
-entrada = int(input("Escriba el número del cual quieres conocer la
-lista"))
+entrada = int(input("Escriba el número del cual quieres conocer la lista"))
 # Proceso
 for num in range(1,entrada+1):
  es_primo = True
